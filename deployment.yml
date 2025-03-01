@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: tetris
-        image: emerald/tetrisv1:latest
+        image: #update this part using jenkins
         ports:
         - containerPort: 3000   # Use port 3000
 
